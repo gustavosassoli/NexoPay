@@ -1,0 +1,44 @@
+<resources>
+    <string name="app_name">NEXO PAY</string>
+    <string name="greeting_user">Olá, Gustavo</string>
+    <string name="available_balance">Saldo disponível</string>
+    <string name="estimated_quote">cotação estimada</string>
+    <string name="protected_wallet">Carteira protegida</string>
+    <string name="demo_badge">AMBIENTE DEMONSTRATIVO</string>
+    <string name="action_pay_pix">Pagar com Pix</string>
+    <string name="action_receive_crypto">Receber cripto</string>
+    <string name="action_add_funds">Adicionar fundos</string>
+    <string name="section_your_assets">Seus ativos</string>
+    <string name="action_view_wallet">Ver carteira</string>
+    <string name="section_recent_activity">Atividade recente</string>
+    <string name="action_view_all">Ver todas</string>
+    <string name="under_construction">Em construção</string>
+    <string name="back">Voltar</string>
+    <string name="notifications">Notificações</string>
+    <string name="profile">Perfil</string>
+    <string name="hide_balance">Ocultar saldo</string>
+    <string name="show_balance">Mostrar saldo</string>
+    <string name="hidden_balance_usd">US$ ••••••</string>
+    <string name="hidden_balance_brl">R$ ••••••</string>
+
+    <!-- Nav tabs -->
+    <string name="nav_home">Início</string>
+    <string name="nav_wallet">Carteira</string>
+    <string name="nav_pay">Pagar</string>
+    <string name="nav_activity">Atividade</string>
+    <string name="nav_profile">Perfil</string>
+
+    <!-- Titles for 12 routes -->
+    <string name="title_home">Início</string>
+    <string name="title_scan">Pagar com Pix</string>
+    <string name="title_confirm">Revisar pagamento</string>
+    <string name="title_processing">Processando</string>
+    <string name="title_result">Resultado</string>
+    <string name="title_wallet">Carteira</string>
+    <string name="title_asset">Detalhes do ativo</string>
+    <string name="title_funds">Adicionar fundos</string>
+    <string name="title_receive">Receber cripto</string>
+    <string name="title_activity">Atividade</string>
+    <string name="title_activity_detail">Detalhes da atividade</string>
+    <string name="title_profile">Perfil</string>
+</resources>

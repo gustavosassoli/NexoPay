@@ -1,0 +1,6 @@
+{
+  "name": "NEXO PAY",
+  "description": "NEXO PAY - Carteira digital e pagamentos Pix com criptoativos",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
